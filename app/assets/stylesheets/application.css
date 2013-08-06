@@ -11,9 +11,6 @@
  *= require_self
  *= require_tree .
  */
-/*
-*= require bootstrap
-*/
 
 .content {
 background-color: #eee;
